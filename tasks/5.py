@@ -17,5 +17,5 @@ for i in s:
 s=lower.join(s)
 s=upper.join(s)
 s=odd.join(s)
-s=even.join()
+s=even.join(s)
              
