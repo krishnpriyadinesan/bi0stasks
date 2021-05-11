@@ -1,0 +1,10 @@
+I was able to complete only 4 of the challenges.I used cyberchef for the challenges and also Xor decoder.
+The challenges which I completed are:
+
+i)base-base-base:I converted the text from base64, to base32 and got stuck many times and I got it last.
+
+ii)Single byte Xor:I read about the Xor section in wiki bios. And tried converting the hex into binary and adding binary of z. But then it took a lot of time. Then I checked for some online decoder and I found the flag.
+
+iii)Naive cipher:Seeing the text,I understood that was in the exact form as how we submit the flag. Then I tried shifting the characters by some values. 
+
+iv)Angry Steve:I tried to find a flag by increasing the brightness and contrast of the photo. But that didnt work. Later I opened the photo in notepad and found the flag. 
